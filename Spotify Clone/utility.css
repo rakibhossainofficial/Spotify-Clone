@@ -1,0 +1,38 @@
+
+.border{
+    
+}
+
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+    
+}
+
+.item-center{
+    /* align-items: center;   */
+}
+
+.bg-black{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+
+}
+
+.bg-grey{
+    background-color: #1a1919;
+    color: #fff;
+}
+
+.invert{
+    filter: invert(1); /*  this is for svg color */
+}
+
+
+.rounded{
+    border-radius: 8px;
+}
